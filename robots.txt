@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://yang8585guang.github.io/sitemap.xml
