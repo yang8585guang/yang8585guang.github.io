@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biomarkers | Jing Yang</title>
-    <link>https://yang8585guang.github.io/tag/biomarkers/</link>
-      <atom:link href="https://yang8585guang.github.io/tag/biomarkers/index.xml" rel="self" type="application/rss+xml" />
-    <description>Biomarkers</description>
+    <title>metabolite | Jing Yang</title>
+    <link>https://yang8585guang.github.io/tag/metabolite/</link>
+      <atom:link href="https://yang8585guang.github.io/tag/metabolite/index.xml" rel="self" type="application/rss+xml" />
+    <description>metabolite</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 16 Apr 2022 12:16:54 +0000</lastBuildDate>
     <image>
       <url>https://yang8585guang.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Biomarkers</title>
-      <link>https://yang8585guang.github.io/tag/biomarkers/</link>
+      <title>metabolite</title>
+      <link>https://yang8585guang.github.io/tag/metabolite/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://yang8585guang.github.io/publication/https-doi-org-10-1002-exp-20210222/</link>
       <pubDate>Sat, 16 Apr 2022 12:16:54 +0000</pubDate>
       <guid>https://yang8585guang.github.io/publication/https-doi-org-10-1002-exp-20210222/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Detection and Inhibition of Bacteria on a Dual-Functional Silver Platform</title>
-      <link>https://yang8585guang.github.io/publication/20184406002407/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://yang8585guang.github.io/publication/20184406002407/</guid>
       <description></description>
     </item>
     
